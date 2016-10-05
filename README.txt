@@ -24,7 +24,7 @@ currently commented out in gui_averageQBall.m and gui_singleQB_multi.m files.
 
 In the stochastic mode QBs are filtered with (100Hz) low pass filter.
 Averaging: QBs aligned by their half bump rise and fall times S. R. Henderson, H. Reuss
-and R. C. Hardie, J. Physiol. 524, 2000, pp. 179–194, which was used as a source of 
+and R. C. Hardie, J. Physiol. 524, 2000, pp. 179-194, which was used as a source of 
 experimental values.
 
 time: time period in ms you want to simulate (e.g. 120)
