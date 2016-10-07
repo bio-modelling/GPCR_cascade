@@ -14,6 +14,8 @@ http://www.mathworks.com/matlabcentral/fileexchange/view_license?file_info_id=22
 
 Please cite papers [1] and [2] if you use this code.
 
+User Guide
+----------
 
 The main file is "Drosophila_Phototransduction.m" which when you run it opens the GUI.
 The GUI contains the preloaded values for parameters and should be mostly 
@@ -23,15 +25,15 @@ for some average values and three graphs (for the average quantum bump, latency 
 distribution and peak current distribution). It is possible to produce some other plots 
 currently commented out in gui_averageQBall.m and gui_singleQB_multi.m files.
 
-In the stochastic mode QBs are filtered with (100Hz) low pass filter.
+In the stochastic mode QBs are filtered with (100Hz) low pass filter.  
 Averaging: QBs aligned by their half bump rise and fall times S. R. Henderson, H. Reuss
 and R. C. Hardie, J. Physiol. 524, 2000, pp. 179-194, which was used as a source of 
 experimental values.
 
-time: time period in ms you want to simulate (e.g. 120)
-tstep: time step in ms for numerical solution (<=0.1)
+time: time period in ms you want to simulate (e.g. 120)  
+tstep: time step in ms for numerical solution (<=0.1)  
 flagM/G/P/D/T: to set deterministic mode (0) or stochastic mode (1) for each step 
-of the cascade
+of the cascade  
 
 Any additional questions (but please note that the support for the software can
 NOT be guaranteed): k.nikolic@imperial.ac.uk
