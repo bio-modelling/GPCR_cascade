@@ -1,4 +1,5 @@
 Drosophila Phototransduction Simulator
+======================================
 
 by Konstantin Nikolic and Joaquim Loizu 
 
@@ -37,10 +38,11 @@ NOT be guaranteed): k.nikolic@imperial.ac.uk
 
 
 References
+----------
 
 1. Nikolic K, Loizu J, Degenaar P, Toumazou C: "A stochastic model of the 
    single photon response in Drosophila photoreceptors", Integrative Biology, 
-   2010, Vol:2, Pages:354-370.
+   2010, Vol:2, Pages:354-370. [doi: 10.1039/C0IB00031K](https://doi.org/10.1039/C0IB00031K)
 2. Nikolic K, Loizu J, Degenaar P: "Computational Modelling of the Drosophila 
    Phototransduction Cascade", Biophysical Journal, Vol:98, Issue 3, Supplement 1, 
-   January 2010, Page 495a 
+   January 2010, Page 495a. [doi: 10.1016/j.bpj.2009.12.2695](http://dx.doi.org/10.1016/j.bpj.2009.12.2695)
